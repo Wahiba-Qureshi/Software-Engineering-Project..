@@ -75,7 +75,7 @@ namespace Software_Engineering_Project
             }
             else if (percentage > 40)
             {
-                lblGrade.Text = "Fail";
+                lblGrade.Text = "Fail ";
             }
 
         }
