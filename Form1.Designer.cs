@@ -760,7 +760,7 @@
         private System.Windows.Forms.Label lblBatch;
         private System.Windows.Forms.Label lblFatherName;
         private System.Windows.Forms.Label lblName;
-        private System.Windows.Forms.Label lblRollNo;
+        private System.Windows.Forms.Label lblRollNo ;
     }
 }
 
